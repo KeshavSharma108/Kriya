@@ -1,0 +1,8 @@
+export {default as Splash} from './SpalshScreen'
+export {default as Profile} from './Profile'
+export {default as Login} from './Login'
+export {default as HomeScreen} from './HomeScreen'
+export {default as Doctors} from './Doctors'
+export {default as ForgotPassword} from './ForgotPassword'
+export {Rejected,Request,Upcoming,Completed} from './Appointment'
+export {default as SignIn} from './SigninPage'

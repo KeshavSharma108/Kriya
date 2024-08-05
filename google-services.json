@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573094125085",
+    "project_id": "kriya-6adc2",
+    "storage_bucket": "kriya-6adc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573094125085:android:62690d9fc6472be86430f4",
+        "android_client_info": {
+          "package_name": "com.keshav108.Kriya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573094125085-3dsnpl387t97sbpeq5et09ks5ihvp80v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keshav108.Kriya",
+            "certificate_hash": "95abd452f32dcac1cfa4606713d7c8ba317fd9e5"
+          }
+        },
+        {
+          "client_id": "573094125085-kbk46t7n1kds4c84mf1vecir436ub38f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keshav108.Kriya",
+            "certificate_hash": "41f5909cfb454216ca6d68214f2427bdf2755516"
+          }
+        },
+        {
+          "client_id": "573094125085-383ul06ii5mn01cqtfmcgk766ifsulvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6YHP6pFXFAPfcSA2pcEUFbP8Z6tp8Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573094125085-383ul06ii5mn01cqtfmcgk766ifsulvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
